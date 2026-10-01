@@ -1,11 +1,12 @@
+
 # KokkiligaddaImriKrupa
+
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=36&duration=1&pause=99999&color=6C63FF&center=true&vCenter=true&width=750&lines=Kokkiligadda+Imri+Krupa" alt="Kokkiligadda Imri Krupa" />
-</a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=36&duration=1&pause=99999&color=6C63FF&center=true&vCenter=true&width=750&lines=Kokkiligadda+Imri+Krupa" alt="Kokkiligadda Imri Krupa" />
+  </a>
 
-<br/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=17&duration=3500&pause=800&color=00B4D8&center=true&vCenter=true&width=800&lines=Graduate+Software+Engineer;Java+%7C+Full-Stack+Developer;AI%2FML+%7C+Cybersecurity+Enthusiast;Building+Secure+%26+Practical+Applications;Always+learning%2C+always+building." alt="Profile subtitle" />
@@ -21,19 +22,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-Imri%20Krupa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=IMRIKRUPA&label=PROFILE+VIEWS&color=6C63FF&style=for-the-badge" alt="Profile Views"/>
-
-<a href="https://github.com/IMRIKRUPA?tab=followers">
-  <img src="https://img.shields.io/github/followers/IMRIKRUPA?label=FOLLOWERS&style=for-the-badge&color=00B4D8" alt="GitHub Followers"/>
-</a>
-
-<a href="https://github.com/IMRIKRUPA?tab=repositories">
-  <img src="https://img.shields.io/github/repos/IMRIKRUPA?label=REPOSITORIES&style=for-the-badge&color=6C63FF" alt="GitHub Repositories"/>
-</a>
-
-<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=120&section=header" width="100%"/>
 
@@ -148,7 +137,7 @@ class ImriKrupa {
 
 ---
 
-# 🚀 Featured Projects
+🚀 Featured Projects
 
 <div align="center">
 
@@ -162,33 +151,24 @@ class ImriKrupa {
 
 <p align="center"><b>AI-Powered Email Threat Detection</b></p>
 
-<p>
-CyberMood is an AI-powered threat analysis application designed to analyze potentially suspicious digital content and identify security threats.
-</p>
+<p> CyberMood is an AI-powered threat analysis application designed to analyze potentially suspicious digital content and identify security threats. </p>
 
-<p>
-The application can analyze <b>email text, URLs, webpages, screenshots, images, audio, and attachments</b> and classify potential threats as <b>Safe, Suspicious, or Dangerous</b>.
-</p>
+<p> The application can analyze <b>email text, URLs, webpages, screenshots, images, audio, and attachments</b> and classify potential threats as <b>Safe, Suspicious, or Dangerous</b>. </p>
 
-<p>
-Combines <b>Machine Learning, NLP, threat detection, Flask APIs, and cybersecurity concepts</b> into a practical security-focused application.
-</p>
+<p> Combines <b>Machine Learning, NLP, threat detection, Flask APIs, and cybersecurity concepts</b> into a practical security-focused application. </p>
 
 <p align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square\&logo=flask\&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square\&logo=sqlite\&logoColor=white)
-![ML](https://img.shields.io/badge/ML-FF6F00?style=flat-square)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-6C63FF?style=flat-square)
+
+
+
+
+
+
 
 </p>
 
-<p align="center">
-<a href="https://github.com/IMRIKRUPA/Cybermood">
-<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white"/>
-</a>
-</p>
+<p align="center"> <a href="https://github.com/IMRIKRUPA/Cybermood"> <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white"/> </a> </p>
 
 </td>
 
@@ -198,33 +178,24 @@ Combines <b>Machine Learning, NLP, threat detection, Flask APIs, and cybersecuri
 
 <p align="center"><b>Encrypted Notes & Multi-Factor Authentication</b></p>
 
-<p>
-A secure notes management application designed around <b>data encryption, authentication, and TOTP-based multi-factor authentication</b>.
-</p>
+<p> A secure notes management application designed around <b>data encryption, authentication, and TOTP-based multi-factor authentication</b>. </p>
 
-<p>
-Includes secure note management, encrypted storage, authentication, TOTP MFA, QR-based authenticator setup, and a modern web interface.
-</p>
+<p> Includes secure note management, encrypted storage, authentication, TOTP MFA, QR-based authenticator setup, and a modern web interface. </p>
 
-<p>
-Demonstrates practical concepts in <b>application security, authentication, encryption, and secure web development</b>.
-</p>
+<p> Demonstrates practical concepts in <b>application security, authentication, encryption, and secure web development</b>. </p>
 
 <p align="center">
 
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square\&logo=flask\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square\&logo=sqlite\&logoColor=white)
-![Encryption](https://img.shields.io/badge/Encryption-8A2BE2?style=flat-square)
-![MFA](https://img.shields.io/badge/TOTP%20MFA-009688?style=flat-square)
+
+
+
+
+
+
 
 </p>
 
-<p align="center">
-<a href="https://github.com/IMRIKRUPA/Secure-notes-vault">
-<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white"/>
-</a>
-</p>
+<p align="center"> <a href="https://github.com/IMRIKRUPA/Secure-notes-vault"> <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white"/> </a> </p>
 
 </td>
 
@@ -238,28 +209,21 @@ Demonstrates practical concepts in <b>application security, authentication, encr
 
 <p align="center"><b>AI-Powered Healthcare Assistant</b></p>
 
-<p>
-An AI-powered healthcare assistant with a modern React frontend connected to Flask backend services through REST APIs.
-</p>
+<p> An AI-powered healthcare assistant with a modern React frontend connected to Flask backend services through REST APIs. </p>
 
-<p>
-Built to demonstrate practical <b>frontend development, backend APIs, application architecture, and AI integration</b>.
-</p>
+<p> Built to demonstrate practical <b>frontend development, backend APIs, application architecture, and AI integration</b>. </p>
 
 <p align="center">
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square\&logo=vite\&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square\&logo=flask\&logoColor=white)
-![REST](https://img.shields.io/badge/REST_API-02569B?style=flat-square)
+
+
+
+
+
 
 </p>
 
-<p align="center">
-<a href="https://github.com/IMRIKRUPA/Medivoice---webapp">
-<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white"/>
-</a>
-</p>
+<p align="center"> <a href="https://github.com/IMRIKRUPA/Medivoice---webapp"> <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white"/> </a> </p>
 
 </td>
 
@@ -269,27 +233,20 @@ Built to demonstrate practical <b>frontend development, backend APIs, applicatio
 
 <p align="center"><b>AI-Based Payment Recovery Prediction</b></p>
 
-<p>
-Machine learning project developed for the <b>Razorpay AI Buildathon</b> to predict payment recovery outcomes.
-</p>
+<p> Machine learning project developed for the <b>Razorpay AI Buildathon</b> to predict payment recovery outcomes. </p>
 
-<p>
-Implemented a <b>Random Forest</b> model and evaluated its performance on payment-related records.
-</p>
+<p> Implemented a <b>Random Forest</b> model and evaluated its performance on payment-related records. </p>
 
 <p align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square)
-![Random Forest](https://img.shields.io/badge/Random%20Forest-228B22?style=flat-square)
+
+
+
+
 
 </p>
 
-<p align="center">
-<a href="https://github.com/IMRIKRUPA/payrecover-ai">
-<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white"/>
-</a>
-</p>
+<p align="center"> <a href="https://github.com/IMRIKRUPA/payrecover-ai"> <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white"/> </a> </p>
 
 </td>
 
@@ -303,28 +260,21 @@ Implemented a <b>Random Forest</b> model and evaluated its performance on paymen
 
 <p align="center"><b>REST API Gateway & Automated Testing</b></p>
 
-<p>
-A Flask-based API gateway project built around Pokémon API functionality with automated testing.
-</p>
+<p> A Flask-based API gateway project built around Pokémon API functionality with automated testing. </p>
 
-<p>
-Demonstrates practical knowledge of <b>REST APIs, backend development, API integration, and testing</b>.
-</p>
+<p> Demonstrates practical knowledge of <b>REST APIs, backend development, API integration, and testing</b>. </p>
 
 <p align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square\&logo=flask\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat-square)
-![Testing](https://img.shields.io/badge/API_Testing-FF6C37?style=flat-square)
+
+
+
+
+
 
 </p>
 
-<p align="center">
-<a href="https://github.com/IMRIKRUPA/pokemon-api-gateway">
-<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white"/>
-</a>
-</p>
+<p align="center"> <a href="https://github.com/IMRIKRUPA/pokemon-api-gateway"> <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white"/> </a> </p>
 
 </td>
 
@@ -334,27 +284,20 @@ Demonstrates practical knowledge of <b>REST APIs, backend development, API integ
 
 <p align="center"><b>Movie Discovery Web Application</b></p>
 
-<p>
-A dynamic movie discovery application that allows users to explore movies through information such as <b>cast, trailers, ratings, categories, and show timings</b>.
-</p>
+<p> A dynamic movie discovery application that allows users to explore movies through information such as <b>cast, trailers, ratings, categories, and show timings</b>. </p>
 
-<p>
-Built to demonstrate practical <b>frontend development, API integration, JavaScript, and responsive web application development</b>.
-</p>
+<p> Built to demonstrate practical <b>frontend development, API integration, JavaScript, and responsive web application development</b>. </p>
 
 <p align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat-square)
+
+
+
+
 
 </p>
 
-<p align="center">
-<a href="https://github.com/IMRIKRUPA/Movie-and-Tv-show-Recommendation-System">
-<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white"/>
-</a>
-</p>
+<p align="center"> <a href="https://github.com/IMRIKRUPA/Movie-and-Tv-show-Recommendation-System"> <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white"/> </a> </p>
 
 </td>
 
@@ -464,33 +407,15 @@ Built to demonstrate practical <b>frontend development, API integration, JavaScr
 # 📚 Currently Learning
 
 ```text
-                    ┌─────────────────────┐
-                    │   Java & OOP        │
-                    └──────────┬──────────┘
-                               ↓
-                    ┌─────────────────────┐
-                    │ DSA & Problem       │
-                    │ Solving             │
-                    └──────────┬──────────┘
-                               ↓
-                    ┌─────────────────────┐
-                    │ Backend & REST APIs │
-                    └──────────┬──────────┘
-                               ↓
-                    ┌─────────────────────┐
-                    │ Full-Stack          │
-                    │ Development         │
-                    └──────────┬──────────┘
-                               ↓
-                    ┌─────────────────────┐
-                    │ AI / Machine        │
-                    │ Learning            │
-                    └──────────┬──────────┘
-                               ↓
-                    ┌─────────────────────┐
-                    │ Cybersecurity &     │
-                    │ Secure Development  │
-                    └─────────────────────┘
+Java & Spring Boot
+        ↓
+REST APIs & Microservices
+        ↓
+Angular & Full-Stack Development
+        ↓
+Enterprise AI & Agentic AI
+        ↓
+Cybersecurity & Secure Development
 ```
 
 ---
@@ -499,36 +424,6 @@ Built to demonstrate practical <b>frontend development, API integration, JavaScr
 
 I'm interested in opportunities where I can contribute to real-world software projects and continue developing my technical skills.
 
-### 💻 Software Development
-
-* Graduate Software Engineer
-* Junior Software Developer
-* Java Developer
-* Backend Developer
-* Full-Stack Developer
-* Software Engineer
-
-### 🔐 Cybersecurity
-
-* Cybersecurity Analyst — Entry Level
-* Security Intern / Graduate Security Roles
-* Application Security — Entry Level
-* SOC / Security Operations — Entry Level
-* Security Testing / Vulnerability Assessment — Entry Level
-
-### 🤖 AI / Data
-
-* AI/ML Intern
-* Machine Learning Intern
-* Junior AI/ML Developer
-* Python / AI Developer — Entry Level
-
-### 🧪 Testing & APIs
-
-* Software Testing
-* QA / Test Engineer
-* API Testing
-* Automation Testing
 
 **Open to learning, collaboration, internships, graduate opportunities, and entry-level roles.**
 ---
