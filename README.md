@@ -13,9 +13,25 @@
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Imri%20Krupa-0077B5?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/kokkiligadda-imri-krupa-463a742b8/)
-[![GitHub](https://img.shields.io/badge/GitHub-IMRIKRUPA-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/IMRIKRUPA)
-[![Profile Views](https://komarev.com/ghpvc/?username=IMRIKRUPA\&label=Profile%20Views\&color=6C63FF\&style=flat-square)](https://github.com/IMRIKRUPA)
+<a href="https://github.com/IMRIKRUPA">
+  <img src="https://img.shields.io/badge/GitHub-IMRIKRUPA-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="https://www.linkedin.com/in/kokkiligadda-imri-krupa-463a742b8/">
+  <img src="https://img.shields.io/badge/LinkedIn-Imri%20Krupa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=IMRIKRUPA&label=PROFILE+VIEWS&color=6C63FF&style=for-the-badge" alt="Profile Views"/>
+
+<a href="https://github.com/IMRIKRUPA?tab=followers">
+  <img src="https://img.shields.io/github/followers/IMRIKRUPA?label=FOLLOWERS&style=for-the-badge&color=00B4D8" alt="GitHub Followers"/>
+</a>
+
+<a href="https://github.com/IMRIKRUPA?tab=repositories">
+  <img src="https://img.shields.io/github/repos/IMRIKRUPA?label=REPOSITORIES&style=for-the-badge&color=6C63FF" alt="GitHub Repositories"/>
+</a>
 
 <br/><br/>
 
@@ -31,7 +47,7 @@
 class ImriKrupa {
 
     String location = "India";
-    String role = "Graduate Software Engineer";
+    String role = "Computer Science Graduate";
     String education = "B.Tech CSE @ KL University";
     String graduation = "2026";
     double cgpa = 9.36;
@@ -144,12 +160,10 @@ class ImriKrupa {
 
 <h3 align="center">🛡️ CyberMood</h3>
 
-<p align="center">
-<b>AI-Powered Email Threat Detection</b>
-</p>
+<p align="center"><b>AI-Powered Email Threat Detection</b></p>
 
 <p>
-CyberMood is an AI-powered threat analysis application that analyzes potentially suspicious digital content and helps identify security threats.
+CyberMood is an AI-powered threat analysis application designed to analyze potentially suspicious digital content and identify security threats.
 </p>
 
 <p>
@@ -182,9 +196,7 @@ Combines <b>Machine Learning, NLP, threat detection, Flask APIs, and cybersecuri
 
 <h3 align="center">🔐 Secure Notes Vault</h3>
 
-<p align="center">
-<b>Encrypted Notes & Multi-Factor Authentication</b>
-</p>
+<p align="center"><b>Encrypted Notes & Multi-Factor Authentication</b></p>
 
 <p>
 A secure notes management application designed around <b>data encryption, authentication, and TOTP-based multi-factor authentication</b>.
@@ -224,9 +236,7 @@ Demonstrates practical concepts in <b>application security, authentication, encr
 
 <h3 align="center">🤖 MediVoice AI</h3>
 
-<p align="center">
-<b>AI-Powered Healthcare Assistant</b>
-</p>
+<p align="center"><b>AI-Powered Healthcare Assistant</b></p>
 
 <p>
 An AI-powered healthcare assistant with a modern React frontend connected to Flask backend services through REST APIs.
@@ -257,9 +267,7 @@ Built to demonstrate practical <b>frontend development, backend APIs, applicatio
 
 <h3 align="center">💳 PayRecover AI</h3>
 
-<p align="center">
-<b>AI-Based Payment Recovery Prediction</b>
-</p>
+<p align="center"><b>AI-Based Payment Recovery Prediction</b></p>
 
 <p>
 Machine learning project developed for the <b>Razorpay AI Buildathon</b> to predict payment recovery outcomes.
@@ -293,9 +301,7 @@ Implemented a <b>Random Forest</b> model and evaluated its performance on paymen
 
 <h3 align="center">🎮 Pokémon API Gateway</h3>
 
-<p align="center">
-<b>REST API Gateway & Automated Testing</b>
-</p>
+<p align="center"><b>REST API Gateway & Automated Testing</b></p>
 
 <p>
 A Flask-based API gateway project built around Pokémon API functionality with automated testing.
@@ -326,9 +332,7 @@ Demonstrates practical knowledge of <b>REST APIs, backend development, API integ
 
 <h3 align="center">🎬 Movix</h3>
 
-<p align="center">
-<b>Movie Discovery Web Application</b>
-</p>
+<p align="center"><b>Movie Discovery Web Application</b></p>
 
 <p>
 A dynamic movie discovery application that allows users to explore movies through information such as <b>cast, trailers, ratings, categories, and show timings</b>.
@@ -398,8 +402,6 @@ Built to demonstrate practical <b>frontend development, API integration, JavaScr
 | ------------------------------------------- | ---------------------- | --------: | -----------------: |
 | **B.Tech — Computer Science & Engineering** | KL University          | 2023–2026 | **9.36 / 10 CGPA** |
 | **Diploma — Computer Engineering**          | Sri Jyothi Polytechnic | 2020–2023 | **9.57 / 10 CGPA** |
-| **SSC**                                     | Z.P. High School       | 2019–2020 |      **556 / 600** |
-
 ---
 
 # 🏆 Selected Certifications
@@ -532,6 +534,32 @@ I'm interested in opportunities where I can contribute to real-world software pr
 
 ---
 
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=IMRIKRUPA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IMRIKRUPA&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=IMRIKRUPA&theme=tokyonight&hide_border=true" width="500"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/IMRIKRUPA/IMRIKRUPA/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
 # 💡 Developer Mindset
 
 <div align="center">
@@ -540,11 +568,14 @@ I'm interested in opportunities where I can contribute to real-world software pr
 
 <br/>
 
-💻 Build practical software
-🔐 Think about security
-🤖 Explore AI-powered solutions
-📚 Learn continuously
-🧠 Improve problem-solving
+💻 Build practical software   •  
+🔐 Think about security   •  
+🤖 Explore AI solutions
+
+<br/>
+
+📚 Learn continuously   •  
+🧠 Improve problem-solving   •  
 🚀 Keep building
 
 </div>
@@ -561,9 +592,13 @@ I'm interested in connecting with developers, recruiters, engineers, and technol
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/kokkiligadda-imri-krupa-463a742b8/)
+<a href="https://www.linkedin.com/in/kokkiligadda-imri-krupa-463a742b8/">
+  <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
-[![GitHub](https://img.shields.io/badge/Follow-GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/IMRIKRUPA)
+<a href="https://github.com/IMRIKRUPA">
+  <img src="https://img.shields.io/badge/Follow-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
 </div>
 
@@ -578,3 +613,4 @@ I'm interested in connecting with developers, recruiters, engineers, and technol
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=100&section=footer" width="100%"/>
 
 </div>
+
