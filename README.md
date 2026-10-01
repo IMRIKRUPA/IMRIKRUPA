@@ -531,33 +531,6 @@ I'm interested in opportunities where I can contribute to real-world software pr
 * Automation Testing
 
 **Open to learning, collaboration, internships, graduate opportunities, and entry-level roles.**
-
----
-
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=IMRIKRUPA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IMRIKRUPA&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=IMRIKRUPA&theme=tokyonight&hide_border=true" width="500"/>
-
-</div>
-
----
-
-# 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/IMRIKRUPA/IMRIKRUPA/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
 ---
 
 # 💡 Developer Mindset
